@@ -1,0 +1,28 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juniorvitalik997/todo.git"
+  },
+  "keywords": [
+    "mongo",
+    "express"
+  ],
+  "author": "Vitalii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juniorvitalik997/todo/issues"
+  },
+  "homepage": "https://github.com/juniorvitalik997/todo#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.0"
+  }
+}
